@@ -14,7 +14,11 @@ It is designed for HR professionals, job seekers, policy makers, and businesses 
 | File | Description |
 |------|-------------|
 | `AI_Job_Trends_Dashboard.pbix` | Power BI Dashboard file |
-| `ai_job_data.csv` | Source dataset used in the dashboard |
+| `ai_job_data.csv` | Source dataset used in the dashboard|
+| AI JOB TRENDS.PNG| DASHBOARD IMAGE|
+| INDUSTRY DEEP DIVE.PNG| DASHBOARD IMAGE|
+| GEOGRAPHIC INSIGHTS.PNG| DASHBOARD IMAGE|
+
 | `README.md` 
 
 ---
@@ -29,6 +33,14 @@ It is designed for HR professionals, job seekers, policy makers, and businesses 
 - 🏠 Remote work ratios in AI jobs
 
 ---
+## 📊 Dashboard Preview
+
+AI Job Trends Dashboard (preview)
+1 AI Job trends.png
+2 Industry Deep Dive.png
+3 Geographic Insights.png
+
+
 
 ## 🚀 How to View
 
@@ -41,8 +53,28 @@ It is designed for HR professionals, job seekers, policy makers, and businesses 
 
 ## ⭐ Project Purpose
 
-This project showcases Power BI skills in building a professional-grade dashboard from scratch, focused on **data storytelling**, **insight extraction**, and **interactive design**.
+This project was developed to demonstrate the application of business intelligence and data visualization in understanding the evolving landscape of AI-related job trends. The dashboard provides actionable insights for stakeholders—including HR professionals, job seekers, policymakers, and business leaders—by analyzing key variables such as salary, automation risk, gender diversity, and future job demand.
 
-Ideal for portfolio display, resume, or job applications in data analyst or business intelligence roles.
 
+
+By using Power BI, this project highlights advanced capabilities in:
+
+Data modeling and transformation
+
+Interactive report building
+
+Insightful storytelling through visuals
+
+Real-time trend analysis using filters and slicers
+
+
+This project also serves as a portfolio-ready demonstration of data analysis skills, tailored for roles in:
+
+Data Analysis
+
+Business Intelligence
+
+Workforce Analytics
+
+Strategic HR and Talent Planning
 ---
